@@ -29,8 +29,5 @@
     <ClCompile Include="Text Doc Hub.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\Documents\GitHub\TextDocHub\Text Doc Hub.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

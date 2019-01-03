@@ -30,9 +30,9 @@ int main()
 	char reply;
 	cin >> reply;
 	if (reply == 'y') {
-		cout << "enter the filepath\n\n";
+		cout << "where would you like to save the file?\n";
 
-		newfile.getPath(); // function to set a path for the file
+		newfile.setPath(); // function to set a path for the file
 
 
 
